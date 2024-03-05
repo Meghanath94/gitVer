@@ -1,0 +1,5 @@
+Migration tool requirements
+
+STS for code editing
+spark for Big data processing
+
